@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -181,6 +181,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd96a19472e14e0b",
-  "lastOpenFiles": []
+  "active": "b88973ab0393e1b7",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
 }
