@@ -1,0 +1,1 @@
+Welcome to my site! I am exploring digital tools, design, and technology shape the way we create, communicate, and express ourselves online.
